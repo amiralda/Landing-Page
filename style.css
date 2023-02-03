@@ -24,6 +24,7 @@ button {
     width: 200px;
     border-radius: 1em;
     flex: 0 0 auto;
+    cursor: pointer;
 }
 
 .sign-up {
