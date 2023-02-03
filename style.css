@@ -7,11 +7,11 @@ body {
     padding: 15px 50px 0px 30px;
     display: flex;
     justify-content: space-between;
-    background-color: #eae5ed;
+    background-color: #1F2937;
 }
 
 .footer {
-    background-color: #3a484e;
+    background-color: #1F2937;
     padding: 18px;
     color: white;
     text-align: center;
@@ -35,20 +35,20 @@ button {
     
     background-color: #3882F6;
     color: white;
-    font-size: 12px;
+    font-size: 10px;
 }
 
 .header-link {
     display: flex;
-    gap: 23px;
+    gap: 18px;
     display: flex;
     align-items: flex-start;
 }
 
 ul a {
-    color: rgb(148, 138, 204);
+    color: #E5E7EB;
     text-decoration: none;
-    font-size: 28px;
+    font-size: 18px;
 }
 
 a {
@@ -154,12 +154,12 @@ a {
     padding: 24px;
 }
 
-.hero15
+.hero{
     text-align: start;
     padding: 0;
     margin: 0;
     color: white;
-    font-size: 64px;
+    font-size: 50px;
     font-weight: 900;
 }
 
