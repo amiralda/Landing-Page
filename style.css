@@ -24,7 +24,7 @@ button {
     width: 200px;
     border-radius: 1em;
     flex: 0 0 auto;
-    cursor: pointer, over;
+    cursor: pointer;
 }
 
 .sign-up {
@@ -37,7 +37,7 @@ button {
     background-color: #3882F6;
     color: white;
     font-size: 10px;
-    cursor: pointer, over;
+    cursor: pointer;
 }
 
 .header-link {
