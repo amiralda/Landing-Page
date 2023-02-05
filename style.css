@@ -193,6 +193,10 @@ h1 {
     height: 75px;
     width: 75px;
 }
+.logotitle{
+    height: 30px;
+    width: 30px;
+}
 
 ul {
     list-style-type: none;
